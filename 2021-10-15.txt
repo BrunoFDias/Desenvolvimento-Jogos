@@ -1,0 +1,8 @@
+fiz os tutoriais para os microgames de karting e FPS. (screenshots e trabalhos perdidos ao fazer build. colocarei após refazer)
+
+No microgame de kart, alterei a pista e coloquei uma rampa, acrescentei mais um checkpoint e alterei as posições.
+Também alterei a cor de vários objetos, mudei o modelo de uma montanha para o arco do triunfo e mudei uma das texturas da skybox.
+
+No microgame de FPS, acrescentei uma sala ao mapa, fiz bake para adicionar aos elementos em que se pode caminhar,
+acrescentei vários inimigos, assets de outra coleção e portas em que é necessário uma chave para abrir. A porta e 
+chave pertencem a um pacote gratuito que pode ser acrescentado ao microgame.
