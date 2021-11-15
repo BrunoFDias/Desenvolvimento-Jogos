@@ -1,0 +1,28 @@
+Kingdom Hearts 2
+Desafios explicitos: em quase todas as lutas, especialmente bosses, o jogador tem de rapidamente presionar o triângulo no que é chamado
+um Reaction Command. Se falhar a reação pode sufrer instakill. Nas lutas o jogador tem acesso ao Command Menu, onde pode ativar 
+transformações, usar itens ou magia mas o jogo não fica em pausa então tem de prestar atenção ao menu e aos inimigos
+Desafios implicitos: escolher que equipamento dar a quem, que habilidades equipar e que status aumentar
+Informação imperfeita: não sabemos quando uma luta importante para a história pode começar ou os ataques e comportamento de inimigos
+Conhecimento intrinsinco:decorar o Command Menu para aceder rapidamente ao que quer usar, saber as melhores combinações de habilidades
+para fazer o maior dano possível num combo
+
+
+Persona 3
+Desafios explicitos: ao explorar as masmorras de Tartarus é necessário ser rápido ao iniciar as lutas para se ter vantagem senão
+o inimigo ataca primeiro com a chance de fazer dano critico    
+Desafios implicitos: decidir com que personagem passar tempo, fazer a gestão de itens e escolher quem ter na party
+Informação imperfeita: Tartarus é gerada à sorte e muda todos os dias (no jogo), apesar do jogo avisar quando um inimigo forte aparece 
+no andar da masmorra, temos de aprender as fraquezas e o tipo de ataques que usa
+Conhecimento intrinsinco: saber navegar o mapa e ter cuidado para não ser apanhado de surpresa, memorizar boas combinações de personagens
+para colocar na party, saber em dias as personagens estão livres para otimizar os links sociais.
+Conhecimento extrinsico: bons conhecimentos sociais para saber o que selecionar nas conversas, saber trivia para saber responder 
+as perguntas de professores
+
+Guilty Gear Strive
+Desafios explicitos: ao lutar com outros jogadores, é necessário ter reações rápidas para efetuar combos com dano alto
+Desafios implicitos: tem vários recursos para gerir como Tension, Burst, Blood, Security Level e muitos mais dependendo da personagem e ter
+estratégias prontas dependendo do comportamento do adversário
+Informação perfeita: é capaz de ver a personagem que o adversário vai usar antes da luta começar e a partir daí pode planear uma estratégia
+Conhecimento intrinsinco: saber que ataque faz gattling com o quê, saber que ataques tem invincibilidade no inicio, saber que ataques são +
+e - ao bloquear, quais os atacks que são cancelados ao saltar ou ao correr 
