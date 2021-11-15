@@ -1,0 +1,6 @@
+Making of RubberRoss World: https://youtube.com/playlist?list=PLHkt_b9NNt-ZJdB7ENSejZt1fkCQeHXOa
+
+Estes videos foram a minha introdução ao planeamento necessário para game design e de como ensinar
+jogadores sem recurrer a toturiais. Ao longo dos videos, o Ross vai aprendendo novos conceitos e técnicas
+que são regularmente implementadas e nem nos apercebemos. E para quem tem interesse em game design, esta é uma 
+boa maneira para aprender os básicos.
